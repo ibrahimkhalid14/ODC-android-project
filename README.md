@@ -21,9 +21,4 @@ Welcome to the Meals App! This Android application helps users discover and expl
 - Android Studio
 - Java Development Kit (JDK)
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/meals-app.git
