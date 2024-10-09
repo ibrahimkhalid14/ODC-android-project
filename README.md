@@ -20,5 +20,7 @@ Welcome to the Meals App! This Android application helps users discover and expl
 
 - Android Studio
 - Java Development Kit (JDK)
+## project run record 
+  https://github.com/ibrahimkhalid14/ODC-android-project/issues/2#issue-2575467509
 
 
